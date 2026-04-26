@@ -93,3 +93,11 @@ Why multi-stage?
 More stable training
 Lower memory usage
 Better convergence
+
+## 🏗️ EDMB Architecture
+
+![EDMB Framework](./images/edmb_framework.png)
+
+## 🔬 LGD Decoder
+
+![LGD Decoder](./images/lgd_decoder.png)
